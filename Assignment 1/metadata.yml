@@ -1,0 +1,12 @@
+---
+:id: 3484535
+:submitters:
+- :name: Emily Jordan Berlinghoff
+  :email: eberling@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-07-05 23:57:11.038884000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-07-05 16:57:11.038884000 Z
+:status: processed
+:score: 45.0
